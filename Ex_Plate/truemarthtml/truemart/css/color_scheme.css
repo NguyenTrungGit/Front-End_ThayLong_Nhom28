@@ -1,0 +1,76 @@
+.header-top-area {
+    background: #3a6351 none repeat scroll 0 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
+}
+.off-white-bg {
+    background: #3a6351;
+}
+.off-white-bg2 {
+    background: #3a6351;
+}
+
+.vertical-menu > span {
+    background: #f2edd7 none repeat scroll 0 0;
+}
+
+.post-title h2, .hot-deal-three .post-title h2, .second-featured-products.related-pro .post-title h2 {
+    background: #e48257 none repeat scroll 0 0;
+}
+
+.vertical-menu-list {
+    background: #f2edd7 none repeat scroll 0 0;
+}
+.vertical-menu-list > li a {
+    background: #f2edd7 none repeat scroll 0 0;
+   }
+
+.categorie-search-box button {
+    background: #e48257 none repeat scroll 0 0;
+}
+.ht-dropdown {
+    background: #f2edd7;}
+
+.megamenu { background: #f2edd7 ;}
+
+.header-top ul > li > a, .header-top ul > li> span {
+ color:white;    
+ font-size: 14px;
+ }
+
+ .header-bottom.header-sticky {
+    background: #3a6351;
+}
+.vertical-menu > span {
+    color: #272727;
+}
+.header-bottom-list > li.active > a, .home-4 .header-bottom-list > li.active > a, .header-bottom-list > li:hover > a, .home-4 .header-bottom-list > li:hover > a {
+    color: white;
+}
+.header-bottom-list > li > a{
+    color: white;
+}
+
+h4 a:hover {
+    color: #e48257;
+}
+.footer-title {
+    color: white;}
+
+    .footer-list li a {
+        color: white;
+    }
+    .news-desc h3 {
+        color: white;}
+        .news-desc p {
+            color: white;}
+
+.address-content li { color: white;}
+
+.copyright-text.text-center > p {
+color: white;}
+.copyright-text a {
+    color: white;
+}
+
+.sticker-new, .sticker-sale {
+    background: none 0px 0px repeat scroll #e48257;}
