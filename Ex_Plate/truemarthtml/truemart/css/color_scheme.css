@@ -10,7 +10,7 @@
 }
 
 .vertical-menu > span {
-    background: #f2edd7 none repeat scroll 0 0;
+    background: #3a6351 none repeat scroll 0 0;
 }
 
 .post-title h2, .hot-deal-three .post-title h2, .second-featured-products.related-pro .post-title h2 {
@@ -41,7 +41,7 @@
     background: #3a6351;
 }
 .vertical-menu > span {
-    color: #272727;
+    color: white;
 }
 .header-bottom-list > li.active > a, .home-4 .header-bottom-list > li.active > a, .header-bottom-list > li:hover > a, .home-4 .header-bottom-list > li:hover > a {
     color: white;
